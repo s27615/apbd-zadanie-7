@@ -7,5 +7,5 @@ public class WarehouseProductDTO
     public int Amount { get; set; }
     public int IdOrder { get; set; }
     public DateTime CreatedAt { get; set; }
-    public double Price { get; set;}
+    public double Price { get; set; }
 }
