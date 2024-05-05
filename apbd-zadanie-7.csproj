@@ -5,6 +5,7 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <UserSecretsId>28bf339c-3314-4961-8f5b-8790f1023dbc</UserSecretsId>
+        <RootNamespace>Tutorial6</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

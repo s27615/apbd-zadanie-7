@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial6\\Tutorial6.csproj": {}
+    "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial7\\Tutorial6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial6\\Tutorial6.csproj": {
+    "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial7\\Tutorial6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial6\\Tutorial6.csproj",
+        "projectUniqueName": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial7\\Tutorial6.csproj",
         "projectName": "Tutorial6",
-        "projectPath": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial6\\Tutorial6.csproj",
+        "projectPath": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial7\\Tutorial6.csproj",
         "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial6\\obj\\",
+        "outputPath": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config"

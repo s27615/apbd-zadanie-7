@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rWEaK+LLiVszRDjyQeI+zNPAIZ3bq5a7bnO5jotk8XDhU6dGJwGxROV+09dg+HPVcBST4V5VdwLpCsrmloSig==",
+  "dgSpecHash": "QfsXGpwhnS5LWQTTNeVx9vODnSc9urOjgFXDaf+OMZKUdvKWlmcx8w4Ss5Vi4gom/KDVGvr3H3B/3s3cnBrSsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial6\\Tutorial6.csproj",
+  "projectFilePath": "C:\\Users\\laura\\OneDrive\\Pulpit\\Tutorial7\\apbd-zadanie-7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laura\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\laura\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
